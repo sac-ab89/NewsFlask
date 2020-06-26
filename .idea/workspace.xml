@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba71afa1-f3c6-49d5-90b0-ee5628030de2" name="Default Changelist" comment="" />
+    <list default="true" id="ba71afa1-f3c6-49d5-90b0-ee5628030de2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DateTimeEncoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/news.py" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/news.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/news_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/services/news_service.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/NewsMaatrom" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1do199UsvAKnAivT8N5PPPeprun" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -150,64 +157,64 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="184" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1593158374191" />
-    <state width="1398" height="253" key="GridCell.Tab.0.bottom" timestamp="1593184986449">
+    <state width="1398" height="253" key="GridCell.Tab.0.bottom" timestamp="1593193554095">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="253" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1593184986449" />
-    <state width="1398" height="253" key="GridCell.Tab.0.center" timestamp="1593184986449">
+    <state width="1398" height="253" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1593193554095" />
+    <state width="1398" height="253" key="GridCell.Tab.0.center" timestamp="1593193554094">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="253" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1593184986449" />
-    <state width="1398" height="253" key="GridCell.Tab.0.left" timestamp="1593184986448">
+    <state width="1398" height="253" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1593193554094" />
+    <state width="1398" height="253" key="GridCell.Tab.0.left" timestamp="1593193554093">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="253" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1593184986448" />
-    <state width="1398" height="253" key="GridCell.Tab.0.right" timestamp="1593184986449">
+    <state width="1398" height="253" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1593193554093" />
+    <state width="1398" height="253" key="GridCell.Tab.0.right" timestamp="1593193554094">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="253" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1593184986449" />
-    <state width="1398" height="253" key="GridCell.Tab.1.bottom" timestamp="1593184994772">
+    <state width="1398" height="253" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1593193554094" />
+    <state width="1398" height="253" key="GridCell.Tab.1.bottom" timestamp="1593193561920">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="253" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1593184994772" />
-    <state width="1398" height="253" key="GridCell.Tab.1.center" timestamp="1593184994769">
+    <state width="1398" height="253" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1593193561920" />
+    <state width="1398" height="253" key="GridCell.Tab.1.center" timestamp="1593193561919">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="253" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1593184994769" />
-    <state width="1398" height="253" key="GridCell.Tab.1.left" timestamp="1593184994768">
+    <state width="1398" height="253" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1593193561919" />
+    <state width="1398" height="253" key="GridCell.Tab.1.left" timestamp="1593193561918">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="253" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1593184994768" />
-    <state width="1398" height="253" key="GridCell.Tab.1.right" timestamp="1593184994771">
+    <state width="1398" height="253" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1593193561918" />
+    <state width="1398" height="253" key="GridCell.Tab.1.right" timestamp="1593193561919">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="253" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1593184994771" />
-    <state x="229" y="60" key="SettingsEditor" timestamp="1593158674468">
+    <state width="1398" height="253" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1593193561919" />
+    <state x="229" y="60" key="SettingsEditor" timestamp="1593192371854">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="229" y="60" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1593158674468" />
-    <state width="720" height="398" key="XDebugger.FullValuePopup" timestamp="1593173295492">
+    <state x="229" y="60" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1593192371854" />
+    <state width="720" height="398" key="XDebugger.FullValuePopup" timestamp="1593193337821">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="720" height="398" key="XDebugger.FullValuePopup/0.23.1440.797@0.23.1440.797" timestamp="1593173295492" />
+    <state width="720" height="398" key="XDebugger.FullValuePopup/0.23.1440.797@0.23.1440.797" timestamp="1593193337821" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/services/news_service.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="20" />
+          <url>file://$PROJECT_DIR$/controllers/news.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controllers/news.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/services/news_service.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/services/news_service.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="22" />
+          <line>43</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

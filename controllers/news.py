@@ -3,6 +3,7 @@ from flask import request
 import json
 import requests
 from services import news_service
+from DateTimeEncoder import DatetimeEncoder
 
 news = Blueprint('news', __name__)
 
@@ -42,6 +43,6 @@ def fetch_news():
 def list_news():
     try:
         news = news_service.get_news()
-        return news
+        return json.dumps(news,cls= DatetimeEncoder)
     except Exception:
         raise('Server error')

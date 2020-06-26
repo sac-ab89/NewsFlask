@@ -32,5 +32,15 @@ def get_news():
     news = Article.select().dicts()
     news_list = []
     for item in news:
-        print(item)
+        author = item['author']
+        content = item['content']
+        description = item['description']
+        publishedAt = item['publishedAt']
+        title = item['title']
+        URL = item['URL']
+        urlToImage = item['urlToImage']
+        item['source'] = Source.get(Source.id == item['source']).name
+        news_list.append(item)
+    return news_list
+
 
